@@ -16,6 +16,6 @@ This dataset has 569 observations of Breast Cancer cell's measured data with 31 
 
  Part VI. Conclusion
 
-To see the R script File: [Analysis-of-Breast-Cancer.R](https://github.com/jeff1hwang/Breast-Cancer-DA/blob/main/Analysis-of-Breast-Cancer.R)
+### To see the R script File: [Analysis-of-Breast-Cancer.R](https://github.com/jeff1hwang/Breast-Cancer-DA/blob/main/Analysis-of-Breast-Cancer.R)
 
-To see the Report File: [Analysis of Breast Cancer Dataset.pdf](https://github.com/jeff1hwang/Breast-Cancer-DA/blob/main/Analysis%20of%20Breast%20Cancer%20Dataset.pdf)
+### To see the Report File: [Analysis of Breast Cancer Dataset.pdf](https://github.com/jeff1hwang/Breast-Cancer-DA/blob/main/Analysis%20of%20Breast%20Cancer%20Dataset.pdf)
