@@ -15,3 +15,7 @@ This dataset has 569 observations of Breast Cancer cell's measured data with 31 
  Part V. Estimation of Variable Distribution
 
  Part VI. Conclusion
+
+To see the R script File: [Click Here](https://github.com/jeff1hwang/Breast-Cancer-DA/blob/main/Analysis-of-Breast-Cancer.R)
+
+To see the Report File: 
